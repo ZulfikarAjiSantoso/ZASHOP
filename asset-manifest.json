@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/zashop/static/css/main.0eea0451.chunk.css",
+    "main.js": "/zashop/static/js/main.25e322ed.chunk.js",
+    "main.js.map": "/zashop/static/js/main.25e322ed.chunk.js.map",
+    "runtime-main.js": "/zashop/static/js/runtime-main.4c663942.js",
+    "runtime-main.js.map": "/zashop/static/js/runtime-main.4c663942.js.map",
+    "static/css/2.e3f046fb.chunk.css": "/zashop/static/css/2.e3f046fb.chunk.css",
+    "static/js/2.13cfaa39.chunk.js": "/zashop/static/js/2.13cfaa39.chunk.js",
+    "static/js/2.13cfaa39.chunk.js.map": "/zashop/static/js/2.13cfaa39.chunk.js.map",
+    "index.html": "/zashop/index.html",
+    "static/css/2.e3f046fb.chunk.css.map": "/zashop/static/css/2.e3f046fb.chunk.css.map",
+    "static/css/main.0eea0451.chunk.css.map": "/zashop/static/css/main.0eea0451.chunk.css.map",
+    "static/js/2.13cfaa39.chunk.js.LICENSE.txt": "/zashop/static/js/2.13cfaa39.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/zashop/static/media/aa.4ea61169.jpg",
+    "static/media/rregis.7e945433.png": "/zashop/static/media/rregis.7e945433.png",
+    "static/media/rumah.5e257e8a.jpg": "/zashop/static/media/rumah.5e257e8a.jpg",
+    "static/media/tenun.06f0c129.jpg": "/zashop/static/media/tenun.06f0c129.jpg",
+    "static/media/tom.fd5483b6.png": "/zashop/static/media/tom.fd5483b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c663942.js",
+    "static/css/2.e3f046fb.chunk.css",
+    "static/js/2.13cfaa39.chunk.js",
+    "static/css/main.0eea0451.chunk.css",
+    "static/js/main.25e322ed.chunk.js"
+  ]
+}
